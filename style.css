@@ -1,0 +1,89 @@
+.hero .container {
+    position: relative;
+    z-index: 5;
+}
+.hero .container {
+    position: relative;
+    z-index: 5;
+}
+.container .container-fluid {
+    width: 100%;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+}
+body {
+    margin: 0px;
+    font-family: 'Roboto',sans-serif;
+    background-color: #E4E9FD;
+    
+    background-image: -webkit-linear-gradient(
+65deg
+, #4CA1A3 50%, #A5E1AD 50%);
+    min-height: 100px;
+    font-family: 'helvetica neue';
+}
+html{
+    height: 1000px;
+    padding-bottom: 0px;
+}
+.card {
+    margin-left: 50px;
+    margin-right: 50px;
+}
+@media only screen and (max-width: 600px) {
+    .card {
+        background-color: azure;
+    }
+  }
+  .card {
+      
+      box-shadow: 0 20px 32px 0 rgba( 31, 38, 135, 0.37 );
+      border-radius: 50px;
+      border: 1px solid rgba( 255, 255, 255, 0.18 );   
+  }
+  .card > img{
+      width: 50%;
+      margin: 2rem 0;
+      align-items: center;
+  }
+  .row
+  {
+      text-align: center;
+      padding-top: 20px;
+      content: icon;
+     
+      
+  }
+  element.style {
+    height: 50px;
+    width: 250px;
+}
+a{
+    color: #000;
+}
+.card-title > a{
+    background-color: #4CA1A3  ;
+}
+.card-title > a:hover{
+    background-color: #A5E1AD;
+}
+.card{
+    text-align: center;
+}
+.card-imag-title{
+    float: left;
+}
+.card-body{
+    float: right;
+}
+#button {
+    border-color: #A5E1AD;
+}
+.row a{
+    color: #242725;
+}
+.row a:hover{
+    color: #A5E1AD;
+}
