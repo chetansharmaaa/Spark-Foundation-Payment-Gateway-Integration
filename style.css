@@ -87,3 +87,7 @@ a{
 .row a:hover{
     color: #A5E1AD;
 }
+.fotter{
+    text-align: center;
+    padding-top: 30px;
+}
